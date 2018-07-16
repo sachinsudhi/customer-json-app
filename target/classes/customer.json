@@ -1,0 +1,26 @@
+{
+"id": 101,
+"name": "Bulla",
+"dateOfBirth":"1990-11-09",
+"annualSalary": 56700.4,
+"addresses":[
+{
+"street":"450 Central Dr",
+"city":"Columbus, OH",
+"zipCode":"238095"
+},
+{
+"street":"450 Zillow Road",
+"city":"Minneapolis, MN",
+"zipCode":"190765"
+}],
+"paymentMethods":[
+{
+"cardNumber":6789031,
+"cardName":"AmEx",
+"dateFrom":"2007-04-01",
+"dateType":"valid",
+"cardType":"DEBITCARD"
+}
+]
+}

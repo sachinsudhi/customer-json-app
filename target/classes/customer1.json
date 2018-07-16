@@ -1,0 +1,30 @@
+{
+  "id" : 102,
+  "name" : "Khulla",
+  "annualSalary" : 34000.67,
+  "addresses" : [ {
+    "street" : "1235 MullHound Blvd",
+    "city" : "San Pedro, WA",
+    "zipCode" : "345-095"
+  } ],
+  "paymentMethods" : [ {
+    "cardNumber" : 50915607,
+    "cardName" : "Suntrust",
+    "dateFrom" : {
+      "year" : 2012,
+      "month" : "FEBRUARY",
+      "era" : "CE",
+      "dayOfMonth" : 19,
+      "dayOfWeek" : "SUNDAY",
+      "dayOfYear" : 50,
+      "leapYear" : true,
+      "monthValue" : 2,
+      "chronology" : {
+        "id" : "ISO",
+        "calendarType" : "iso8601"
+      }
+    },
+    "dateType" : "in range",
+    "cardType" : "DEBITCARD"
+  } ]
+}
